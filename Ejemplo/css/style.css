@@ -1,0 +1,36 @@
+body{
+    padding-left: 300px;
+}
+
+table{
+    border: 3px;
+    border-style: double;
+    border-color: blue;
+    padding: 30px;
+}
+
+h1{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-family: 'Grill Sans', 'Grill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p strong{
+    color: yellowgreen;
+}
+strong{
+    color: red;
+}
